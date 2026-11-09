@@ -1,0 +1,190 @@
+[
+    {
+        "card":  "/media/encontro-1-0.jpeg",
+        "photos":  [
+                       {
+                           "src":  "/media/encontro-1-1.jpeg",
+                           "original":  "midia/Primeira formação/FOFO 38.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-2.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 02.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-3.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 12.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-4.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 20.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-5.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 28.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-6.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 29.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-7.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 32.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-8.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 37.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-1-9.jpeg",
+                           "original":  "midia/Primeira formação/FOTO 41.jpeg"
+                       },
+                       {
+                           "src":  "/media/documento-image4.jpeg",
+                           "original":  "Word: image4.jpeg"
+                       },
+                       {
+                           "src":  "/media/documento-image5.jpeg",
+                           "original":  "Word: image5.jpeg"
+                       },
+                       {
+                           "src":  "/media/documento-image8.jpeg",
+                           "original":  "Word: image8.jpeg"
+                       },
+                       {
+                           "src":  "/media/documento-image9.jpeg",
+                           "original":  "Word: image9.jpeg"
+                       },
+                       {
+                           "src":  "/media/documento-image10.jpeg",
+                           "original":  "Word: image10.jpeg"
+                       }
+                   ],
+        "id":  1
+    },
+    {
+        "card":  "/media/encontro-2-0.jpeg",
+        "photos":  [
+                       {
+                           "src":  "/media/encontro-2-1.jpeg",
+                           "original":  "midia/Segunda formação/foto 01.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-2.jpeg",
+                           "original":  "midia/Segunda formação/foto 05.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-3.jpeg",
+                           "original":  "midia/Segunda formação/foto 10.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-4.jpeg",
+                           "original":  "midia/Segunda formação/foto 12.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-5.jpeg",
+                           "original":  "midia/Segunda formação/foto 13.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-6.jpeg",
+                           "original":  "midia/Segunda formação/foto 19.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-7.jpeg",
+                           "original":  "midia/Segunda formação/foto 21.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-8.jpeg",
+                           "original":  "midia/Segunda formação/foto 29.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-2-9.jpeg",
+                           "original":  "midia/Segunda formação/foto 31.jpeg"
+                       },
+                       {
+                           "src":  "/media/documento-image13.jpeg",
+                           "original":  "Word: image13.jpeg"
+                       }
+                   ],
+        "id":  2
+    },
+    {
+        "card":  "/media/encontro-3-0.jpeg",
+        "photos":  [
+                       {
+                           "src":  "/media/encontro-3-1.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 01 .jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-2.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 05.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-3.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 06.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-4.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 08.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-5.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 15.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-6.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 17.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-7.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 19.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-8.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 22.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-3-9.jpeg",
+                           "original":  "midia/Terceira formação/FOTO 24.jpeg"
+                       }
+                   ],
+        "id":  3
+    },
+    {
+        "card":  "/media/encontro-4-7.jpeg",
+        "photos":  [
+                       {
+                           "src":  "/media/encontro-4-0.jpeg",
+                           "original":  "midia/Quarta formação/3.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-1.jpeg",
+                           "original":  "midia/Quarta formação/4.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-2.jpeg",
+                           "original":  "midia/Quarta formação/5.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-3.jpeg",
+                           "original":  "midia/Quarta formação/6.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-4.jpeg",
+                           "original":  "midia/Quarta formação/7.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-5.jpeg",
+                           "original":  "midia/Quarta formação/8.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-6.jpeg",
+                           "original":  "midia/Quarta formação/9.jpeg"
+                       },
+                       {
+                           "src":  "/media/encontro-4-8.jpeg",
+                           "original":  "midia/Quarta formação/WhatsApp Image 2026-11-09 at 09.56.59.jpeg"
+                       }
+                   ],
+        "id":  4
+    }
+]
